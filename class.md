@@ -1,1 +1,12 @@
-Tuyen Version Control Class
+Crimson
+Orange
+Blue
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
